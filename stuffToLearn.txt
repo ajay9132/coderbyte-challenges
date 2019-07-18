@@ -1,0 +1,7 @@
+.test,
+.formCharCode,
+.includes,
+.charCodeAt,
+.slice,
+.every,
+.replace,
